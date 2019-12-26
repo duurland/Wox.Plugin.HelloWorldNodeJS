@@ -1,0 +1,11 @@
+{
+  "ID": "a9dec65b-3926-46c9-a8ab-55996c930c7b",
+  "ActionKeyword": "node",
+  "Name": "Hello World NodeJS",
+  "Description": "Example nodejs plugin for Wox",
+  "Author": "me",
+  "Version": "1.0.0",
+  "Language": "executable",
+  "IcoPath": "Images/nodejs-logo.png",
+  "ExecuteFileName": "node.bat"
+}
